@@ -1,0 +1,3 @@
+[submodule "zanox-gem"]
+	path = zanox-gem
+	url = https://kr1sp1n@github.com/kr1sp1n/zanox.git
