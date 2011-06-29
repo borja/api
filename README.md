@@ -1,9 +1,12 @@
 zanox API
-====================
+=========
 
-Clients
---------------------
+We ♥  APIs.
+So we hope to give back some LOVE to the coding community by 
+offering this central repo to find client libraries and other cool stuff related to our API.
 
+Client Libraries a.k.a. API Wrapper
+-----------------------------------
 Here you can find several client libraries for our zanox API.
 Some were implemented by 3rd party developers and for that case we just link to their repo.
 Have fun!
