@@ -1,3 +1,6 @@
 [submodule "zanox-gem"]
 	path = zanox-gem
 	url = https://kr1sp1n@github.com/kr1sp1n/zanox.git
+[submodule "api_client_php"]
+	path = api_client_php
+	url = http://github.com/zanox/api_client_php.git
