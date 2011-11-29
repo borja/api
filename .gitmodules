@@ -1,6 +1,6 @@
-[submodule "zanox-gem"]
+[submodule "ruby"]
 	path = ruby
 	url = https://kr1sp1n@github.com/kr1sp1n/zanox.git
-[submodule "api_client_php"]
+[submodule "php"]
 	path = php
 	url = http://github.com/zanox/api_client_php.git
